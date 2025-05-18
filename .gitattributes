@@ -1,0 +1,8 @@
+# Handle all text files
+* text=auto
+
+# Ensure binary files remain unchanged
+*.png binary
+*.jpg binary
+*.exe binary
+*.mp4 binary
