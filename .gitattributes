@@ -1,4 +1,4 @@
+# Set line endings for text files
 * text=auto
-*.js text eol=lf
-*.json text eol=lf
-*.ps1 text eol=lf
+# Prevent line ending changes for binary files
+*.bin binary
