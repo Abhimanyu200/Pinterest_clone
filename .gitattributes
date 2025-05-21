@@ -1,4 +1,5 @@
 # Set line endings for text files
-* text=auto
+* text eol=crlf
+
 # Prevent line ending changes for binary files
 *.bin binary
